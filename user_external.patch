@@ -1,0 +1,13 @@
+diff --git a/appinfo/info.xml b/appinfo/info.xml
+index f5c9ea2..b781ce0 100644
+--- a/appinfo/info.xml
++++ b/appinfo/info.xml
+@@ -33,7 +33,7 @@ Read the [documentation](https://github.com/nextcloud/user_external#readme) to l
+ 	<bugs>https://github.com/nextcloud/user_external/issues</bugs>
+ 	<repository type="git">https://github.com/nextcloud/user_external.git</repository>
+ 	<dependencies>
+-		<nextcloud min-version="31" max-version="34" />
++		<nextcloud min-version="31" max-version="35" />
+ 	</dependencies>
+ 	<settings>
+ 		<admin>OCA\UserExternal\Settings\Admin</admin>
